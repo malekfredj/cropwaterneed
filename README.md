@@ -1,5 +1,5 @@
 # cropwaterneed
-********* Please open Readme file and click on Raw to see the full table *********
+********* Please open Readme.md file and click on Raw to see the full table *********
 
 This repository contains 3 files :
 - Dataset_Before_Data_Preparation.xlsx : The dataset in its native format before performing the data preparation process.
