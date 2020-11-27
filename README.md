@@ -4,7 +4,7 @@ This repository contains 3 files :
 - Dataset_After_Data_Preparation.xlsx :  The dataset after performing the data preparation process.
 - Dataset_After_Data_Preparation.csv : The dataset in CSV format. It can be used to train machine learning models.
 
-The table below presents the values of the attributes before data preparation and after data preparation
+The table below presents the values of the attributes before and after data preparation
 
 +---------+-------------------------------+------------------------------+
 | Feature | Value before Data Preparation | Value after Data Preparation |
